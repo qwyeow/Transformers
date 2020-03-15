@@ -1,1 +1,1 @@
-# Transformers BERT fastai
+# Transformers BERT fastai on disaster tweet dataset
